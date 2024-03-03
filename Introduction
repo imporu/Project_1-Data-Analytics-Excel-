@@ -1,0 +1,149 @@
+Hi everyone!!
+
+** This is what we are going to do**
+
+Case Study Roadmap 
+
+- Ask
+What is the problem you are trying to solve?
+How can your insights drive business decisions?
+
+Key tasks
+
+Identify the business task
+Consider key stakeholders
+Deliverable
+
+A clear statement of the business task
+Business Task Statement:
+The objective is to understand the differences in the usage patterns between annual members and casual riders of Cyclistic bikes. This analysis will help in designing targeted marketing strategies to convert 
+casual riders into annual members, thereby maximizing the company's profitability and fostering future growth.
+
+Stakeholders:
+
+Lily Moreno, Director of Marketing
+Cyclistic Marketing Analytics Team
+Cyclistic Executive Team
+
+Case Study Roadmap - Prepare
+
+Guiding questions
+
+Where is your data located?
+How is the data organized?
+Are there issues with bias or credibility in this data? Does your data ROCCC?
+How are you addressing licensing, privacy, security, and accessibility?
+How did you verify the data’s integrity?
+How does it help you answer your question?
+Are there any problems with the data?
+Key tasks
+
+Download data and store it appropriately.    
+Identify how it’s organized.
+Sort and filter the data.
+Determine the credibility of the data.
+Deliverable
+
+A description of all data sources used
+Data Sources:
+
+Historical trip data provided by Cyclistic
+Data from Motivate International Inc. (under license)
+Case Study Roadmap - Process
+
+Guiding questions
+
+What tools are you choosing and why?
+Have you ensured your data’s integrity?
+What steps have you taken to ensure that your data is clean?
+How can you verify that your data is clean and ready to analyze?
+Have you documented your cleaning process so you can review and share those results?
+Key tasks
+
+Check the data for errors.
+Choose your tools.
+Transform the data so you can work with it effectively.
+Document the cleaning process.
+Deliverable
+
+Documentation of any cleaning or manipulation of data
+Data Cleaning Steps:
+
+Download the previous 12 months of trip data.
+Unzip the files.
+Organize files in appropriate folders.
+Open files in Excel/Google Sheets.
+Create additional columns for ride length and day of the week.
+Format data appropriately.
+Ensure data consistency and accuracy.
+Case Study Roadmap - Analyze
+
+Guiding questions
+
+How should you organize your data to perform analysis on it?
+Has your data been properly formatted?
+What surprises did you discover in the data?
+What trends or relationships did you find in the data?
+How will these insights help answer your business questions?
+Key tasks
+
+Aggregate your data so it’s useful and accessible.
+Organize and format your data.
+Perform calculations.
+Identify trends and relationships.
+Deliverable
+
+A summary of your analysis
+Analysis Approach:
+
+Conduct descriptive analysis.
+Calculate metrics like mean ride length, max ride length, mode of day of the week.
+Create pivot tables to visualize data, e.g., average ride length for members vs. casual riders, ride count by day of the week.
+Merge data from different periods for a full-year view.
+Case Study Roadmap - Share
+
+Guiding questions
+
+Were you able to answer the question of how annual members and casual riders use Cyclistic bikes differently?
+What story does your data tell?
+How do your findings relate to your original question?
+Who is your audience? What is the best way to communicate with them?
+Can data visualization help you share your findings?
+Is your presentation accessible to your audience?
+Key tasks
+
+Determine the best way to share your findings.
+Create effective data visualizations.
+Present your findings.
+Ensure your work is accessible.
+Deliverable
+
+Supporting visualizations and key findings
+Visualization Process:
+
+Sketch visualization ideas.
+Create visualizations using appropriate tools.
+Ensure clarity and accessibility in visualizations.
+Present findings with detailed explanations.
+Case Study Roadmap - Act
+
+Guiding questions
+
+What is your final conclusion based on your analysis?
+How could your team and business apply your insights?
+What next steps would you or your stakeholders take based on your findings?
+Is there additional data you could use to expand on your findings?
+Key tasks
+
+Create your portfolio.
+Add your case study.
+Practice presenting your case study to a friend or family member.
+Deliverable
+
+Your top three recommendations based on your analysis
+Recommendations:
+
+Develop targeted marketing campaigns offering discounts or incentives for casual riders to convert into annual members.
+Improve user experience for annual members to encourage retention and loyalty.
+Expand bike offerings or service areas based on usage patterns identified in the analysis.
+By following this roadmap, you'll be able to effectively analyze Cyclistic's bike-share data and provide actionable insights to drive marketing strategies.
