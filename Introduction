@@ -36,7 +36,8 @@ How are you addressing licensing, privacy, security, and accessibility?
 How did you verify the data’s integrity?
 How does it help you answer your question?
 Are there any problems with the data?
-Key tasks
+
+**Key_tasks**
 
 Download data and store it appropriately.    
 Identify how it’s organized.
@@ -100,6 +101,7 @@ Conduct descriptive analysis.
 Calculate metrics like mean ride length, max ride length, mode of day of the week.
 Create pivot tables to visualize data, e.g., average ride length for members vs. casual riders, ride count by day of the week.
 Merge data from different periods for a full-year view.
+
 Case Study Roadmap - Share
 
 Guiding questions
